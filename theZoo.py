@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/local/bin/python3.9
 
     # Malware DB - the most awesome free malware database on the air
     # Copyright (C) 2014, Yuval Nativ, Lahad Ludar, 5Fingers
@@ -56,7 +56,7 @@ def main():
         parser.add_option("-f", "--filter", dest="mal_filter", default=[],
                           help="Filter the malwares.", action="append")
         parser.add_option("-u", "--update", dest="update_bol", default=0,
-                          help="Updates the DB of theZoo.", action="store_true")
+                          help="Updates the DB of theZoo.", action="store_true")    
         parser.add_option("-v", "--version", dest="ver_bol", default=0,
                           help="Shows version and licensing information.", action="store_true")
         parser.add_option("-w", "--license", dest="license_bol", default=0,
