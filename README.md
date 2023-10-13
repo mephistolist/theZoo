@@ -7,7 +7,7 @@
 
 ![Logo](https://github.com/ytisf/theZoo/raw/gh-pages/MalDB-Logo-Thumb.png)
 
-theZoo is a project created to make the possibility of malware analysis open and available to the public. Since we have found out that almost all versions of malware are very hard to come by in a way which will allow analysis, we have decided to gather all of them for you in an accessible and safe way.
+theZoo is a project created to make the possibility of malware analysis open and available to the public. This version from this page in particualr is for FreeBSD 13 and Python 3. Since we have found out that almost all versions of malware are very hard to come by in a way which will allow analysis, we have decided to gather all of them for you in an accessible and safe way.
 theZoo was born by Yuval tisf Nativ and is now maintained by Shahak Shalev.
 
 **theZoo is open and welcoming visitors!**
